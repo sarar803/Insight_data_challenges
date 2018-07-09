@@ -1,2 +1,2 @@
 # Insight_data_challenges
-Practice data challenges I completed during Insight
+These are data challenges I completed as practice during Insight. 
